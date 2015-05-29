@@ -13,11 +13,11 @@
 			}
 	
 
-	.Imgen1 {	background: url("F:/Prollecto 2/Imagenes/Mujeres.jpg") no-repeat;
+	.Imgen1 {	background: url("Mujeres.jpg") no-repeat;
  		 			
  						}
 
-	.Imgen1:hover {	background: url("F:/Prollecto 2/Imagenes/Aver.jpg") no-repeat;	
+	.Imgen1:hover {	background: url("Aver.jpg") no-repeat;	
 					}
 
 
