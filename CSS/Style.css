@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+	*{	padding:0px;
+		margin:5px;
+		text-align:center;
+	}
+	
+	
+
+	.Entrada{	margin:auto;
+				width:800px;
+				font-family:Georgia, "Times New Roman", Times, serif;
+			}
+	
+
+	.Imgen1 {	background: url("F:/Prollecto 2/Imagenes/Mujeres.jpg") no-repeat;
+ 		 			
+ 						}
+
+	.Imgen1:hover {	background: url("F:/Prollecto 2/Imagenes/Aver.jpg") no-repeat;	
+					}
+
+
+	ul, ol{	list-style:none;}
+
+
+
+	 .Entrada .ini li a{	color:#000;
+							text-decoration:none;
+							display: block;
+						
+				}
+
+	.M{	float:left;
+		background-color: #F500E5;
+			}
+
+	.H{	float:right;
+		background-color: #002BFF;		
+			}
+
+	.H:hover{	background-color:#546FF5;
+				font-size:20px;}
+	.M:hover{	background-color:#FB9DF5;
+				font-size:20px;}
+
+	footer{ position:absolute;
+			top:100%;
+			left:0%; 
+			right:0%;}
+
+	.Nomb:hover {font-size: 30px;}
+
+	
+	
